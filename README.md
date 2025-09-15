@@ -7,7 +7,7 @@ Users can log in, upload files, view a contracts dashboard, and explore contract
 ---
 
 ## 🚀 Demo
-👉 [Live Demo on Vercel](https://sass-dashboard-pq6rxabbk-shrishtimishra09s-projects.vercel.app)
+👉 [Live Demo on Vercel](https://sass-dashboard-55zn.vercel.app)
 
 ---
 
